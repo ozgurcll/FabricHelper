@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 212590a0b67e1481e98958f9ae9a7a18, type: 3}
+  m_Name: Office2
+  m_EditorClassIdentifier: Assembly-CSharp::FabricHelper.POIData
+  poiName: Ofis 2
+  category: 1
+  factoryId: ana_fabrika
+  floorIndex: 0
+  description: "2 numaral\u0131 ofis - tasar\u0131m ekibi"
+  capacity: 15
+  workingHours: 08:00 - 18:00
+  detailText: "2 numaral\u0131 ofis - tasar\u0131m ekibi"
+  photo: {fileID: 0}
+  icon: {fileID: 0}
+  categoryColor: {r: 0, g: 0, b: 0, a: 0}
+  tags:
+  - ofis 2
+  - office2
